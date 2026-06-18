@@ -1,0 +1,29 @@
+r:"^第([0-9０-９]+)階層$"=Floor $1
+r:"^メインストーリー 第([0-9０-９]+)階層$"=Main Story - Floor $1
+
+
+チーム探索力=Party Exploration Power
+探索力=E.Pow
+
+探索力が高いほど追加のドロップが発生する可能性が高くなります。=The higher your Exploration Power, the greater the chance of obtaining additional drops.
+リーダー設定=Leader Settings
+発生中!=Active!
+探索クエスト=Exploration Quest
+件発生!=Occurred!
+クエスト出現中!=Quest Active!
+探索隊Cがランク3のエピック エプロンドレスを発見！\n探索隊Bがありふれた骨材を発見！\n探索隊Aが銀のマテリアルを発見！=Exploration Team C discovered a Rank 3 Epic Apron Dress!\nExploration Team B discovered Common Bone Materials!\nExploration Team A discovered Silver Material!
+未発生=Inactive
+階層詳細=Floor Details
+報酬MAXまで=Until Reward MAX
+探索Lv=Exploration Lv
+全体マップ=World Map
+編成=Formation
+探索ログ=Exploration Log
+クエスト出現まで=Until Quest Appears
+を探索=Exploring
+初めてのログイン=First Login
+探索隊編成=Exploration Team Formation
+
+
+おまかせ\n編成=Auto\nSet up
+一括解除=Clear

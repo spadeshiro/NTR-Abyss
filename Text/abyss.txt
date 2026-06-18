@@ -1,0 +1,307 @@
+Abyss
+深淵=Abyss
+倍=x
+挑む=Challenge
+ゲートキー=Gate Key
+10階分のスコア計算=10F score calc.
+10階分のドロップ数=10F drops calc.
+複数のゲートキーを消費して、スコアとドロップに倍率をかけることができます。=You can spend multiple gate keys to multiply scores and drops.
+ゲートキー消費効果=Gate key consumption effect
+編成したキャラの強化や装備の変更は探索から帰還するまで反映されません=<size\=80%>Changes to your party will not take effect until you return from your expedition.
+深淵内では編成の変更ができません。<br>選択した編成で深淵に挑みますか？=You cannot change your party while inside the Abyss. <br>Challenge the Abyss with your current party?
+ゲートキー獲得まで=Next gate key
+フロア=Floor
+現在:=Depth:
+r:"^([0-9]+)フロア目$"=Floor $1
+獲得アビスコイン：=Abyss Coins:
+獲得ナゾの鍵：=<size\=90%>Mystery Key:
+アビスコイン=Abyss Coin
+回復=<size\=73%>Recovery
+最大到達フロア=Max Reached Floor
+連続踏破フロア=Continuous Floor
+深淵実績=<size\=80%>Abyssal Achievement
+深淵報酬=<size\=90%>Abyss Reward
+深淵ミッション=Abyss Mission
+アビスコード図鑑=Encyclopedia
+深部調査=<size\=70%>Deep Investigation
+r:"^([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)まで$"=Until $1/$2 $3:$4
+バフ戦力=<size\=68%>Buff PWR
+インパクトコード=Impact Code
+ラッシュコード=Rush Code
+セーフコード=Safe Code
+リスクコード=Risk Code
+sr:"^([\S\s]+)系統$"=$1 System
+効果説明=Effect
+アビスコード所持数=<size\=70%>Abyss Code Count
+リロール=Reroll
+受け取る=Receive
+収集報酬=Reward
+受け取らない=<size\=80%>Don't receive
+r:"^<color\=#ff8232>浸食率([0-9]+)上昇</color>$"=<color\=#ff8232>Increase erosion rate by $1</color>
+r:"^<color\=#ff8232>HP([0-9]+)%減少</color>$"=<color\=#ff8232>Reduce HP by $1%</color>
+r:"^<color\=#ff8232>アビスコイン([0-9]+)個消費</color>$"=<color\=#ff8232>Consume $1 Abyss coins</color>
+r:"^<color\=#4cf37b>アビスコイン([0-9]+)獲得</color>\r\n<color\=#ff8232>HP([0-9]+)%減少</color>$"=<color\=#4cf37b>Obtain $1 Abyss coins</color>\r\n<color\=#ff8232>Reduce HP by $2%</color>
+r:"^<color\=#ff8232>浸食率([0-9]+)上昇</color>\r\n<color\=#4cf37b>HP([0-9]+)％回復</color>$"=<color\=#ff8232>Increase erosion rate by $1</color>\r\n<color\=#4cf37b>HP$2% recovery</color>
+r:"^<color\=#4cf37b>アビスコード獲得</color>\r\n<color\=#ff8232>アビスコイン([0-9]+)個消費</color>$"=<color\=#4cf37b>Obtain Abyss Code</color>\r\n<color\=#ff8232>Consume $1 Abyss coins</color>
+r:"^<color\=#4cf37b>アビスコード獲得</color>\r\n<color\=#ff8232>HP([0-9]+)%減少</color>$"=<color\=#4cf37b>Obtain Abyss Code</color>\r\n<color\=#ff8232>Reduce HP by 10%</color>
+r:"^<color\=#4cf37b>アイテム獲得</color>\r\n<color\=#ff8232>アビスコイン30個消費</color>$"=<color\=#4cf37b>Obtain items</color>\r\n<color\=#ff8232>Consume $1 Abyss coins</color>
+r:"^<color\=#ff8232>アビスコイン([0-9]+)個消費</color>\r\n<color\=#4cf37b>浸食率([0-9]+)減少</color>$"=<color\=#ff8232>Consume $1 Abyss coins</color>\r\n<color\=#4cf37b>Reduce erosion rate by $1</color>
+r:"^<color\=#4cf37b>アイテム獲得</color>\r\n<color\=#ff8232>浸食率([0-9]+)上昇</color>$"=<color\=#4cf37b>Obtain items</color>\r\n<color\=#ff8232>Increase erosion rate by $1</color>
+r:"^<color\=#4cf37b>アイテム獲得</color>\r\n<color\=#ff8232>アビスコイン([0-9]+)個消費</color>$"=<color\=#4cf37b>Obtain items</color>\r\n<color\=#ff8232>Consume $1 Abyss coins</color>
+r:"^<color\=#4cf37b>浸食率([0-9]+)減少</color>$"=<color\=#4cf37b>Reduce erosion rate by $1</color>
+r:"^<color\=#4cf37b>アビスコイン([0-9]+)獲得</color>$"=<color\=#4cf37b>Obtain $1 Abyss coins</color>
+r:"^<color\=#4cf37b>HP([0-9]+)％回復</color>$"=<color\=#4cf37b>Recover HP by $1%</color>
+r:"^浸食率([0-9]+)増加$"=Increase erosion rate by $1
+r:"^HP([0-9]+)%減少$"=Reduce HP by $1%
+r:"^浸食\+([0-9]+)$"=<size\=70%>Erosion +$1
+鍵消費=Key consumption
+休憩=Break
+浄化=Purify
+変換=<size\=75%>Conversion
+アビスコード変換=<size\=80%>Abyss code conversion
+HP30%回復=HP30% recovery
+浸食率30減少=<size\=75%>Reduce erosion rate by 30
+ボス\n=Boss\n
+浸食率=<size\=75%>Erosion Rate
+パーティ状況=Party Detail
+獲得アイテム=Obtained Items
+アビスコード=Abyss Code
+現在地へ=<size\=90%>To Current Location
+r:"^([0-9]+)フロア$"=$1 floors
+ゲートキー<color\=#4cf37b>1</color>を使用して探索を続行しますか？=Gate Key<color\=#4cf37b>1</color>\nWould you like to continue exploring?
+
+-Result
+探索フロア数ボーナス=Exploration Floor Number Bonus
+持ち帰ったアイテム=Items Brought Back
+リスクコード数=No. of risk codes
+ラッシュコード数=No. of rush codes
+インパクトコード数=No. of impact codes
+セーフコード数=No. of safe codes
+探索フロア数=<size\=70%>Explored Floors
+今回の編成=  Formation
+深淵評価=abyss evaluation
+累計報酬ポイントLv=Cumulative Reward Points Lv
+ゲートキー消費スコアポイント=<size\=80%>Gate key consumption score
+到達隠しフロア数=<size\=70%>Hidden floors reached
+戦闘回数【強敵】=<size\=70%>Strong enemy battles
+あと=<size\=80%>Left
+最終スコア=Final Score
+
+Collection
+sr:"^(インパクトコード|ラッシュコード|セーフコード|リスクコード)([0-9]+)種獲得$"=Obtain $2 $1
+
+Terms & Stats
+紋章：衝撃=<color\=#6a8bfc>Impact</color>
+紋章：情熱=<color\=#fc4e4d>Zeal</color>
+衝撃=<color\=#6a8bfc>Impact</color>
+情熱=<color\=#fc4e4d>Zeal</color>
+浸食率=<color\=#ff8232>Erosion</color>
+与ダメージ= Dealt DMG
+被ダメージ=Received DMG
+会心ダメージ=Crit DMG
+スキルチャージ効率=Skill Chg. Eff.
+スキルダメージ=Skill DMG
+
+UI
+深淵ショップ=Abyss Shop
+選択中のアビスコード=Selected Abyss Code
+
+Abyss Code Names
+sr:"^(\S+)(?:・([改|真])\z)"=$1・$2
+
+→ Impact Codes
+ギガスマッシュ=Giga Smash
+
+テイルフォース=Tail Force
+ソリッドアーマー=Solid Armor
+
+リア・リバウンド=リア・Rebound
+
+スパークショット=Sparkshot
+
+ファースタクト=Fast Impact
+
+レゾナンスコア=Resonance Core
+クラックスノヴァ=Cracks Nova
+インターバルジ
+バーストエコー=Burst Echo
+ハードボディ=Hard Body
+アクレッシャー=Accretia
+ハインドフラッシュ=Hind Flash
+アフターリズム=After Rhythm
+
+→ Rush Codes
+ナルテージ
+
+リアエンカレッジ
+アイアンパッション=Iron Passion
+リアガーディアン
+ブラストストライク=Blast Strike
+マルチバースト=Match Burst
+ライブエネルギー
+テイルイグニッション=Tail Ignition
+フォーカスハート=Focus Heart
+アクセルビート=Accel Beat
+
+
+ターバルチャージ=
+バーニビリティ
+チェインラッシュ=Chain Rush
+スナイプパッション=Snipe Passion
+
+→ Safe Codes
+ディアンサンチュリ
+セレティアルドーム=Celestial Dome
+マナ・ジェネシス=Mana Genesis
+ソウル・アルケミー=Soul Alchemy
+アンタッチャブル=Untouchable
+
+ルミナスゲイン=Luminous Gain
+ソリッドレジスト=Solid Resist
+ホーリーレジスト=Holy Resist
+
+
+クイックリゾルブ=Quick Resolve
+メンタルリゾルブ=Mental Resolve
+ナチュラクセル=Naturaccel
+ ↑ natural? nature? + accel
+ピュアエナジー=Pure Energy
+ネイチャーテリトリー=Natural Territory
+スピリットゾーン=Spirit Zone
+エレメンタルガード=Elemental Guard
+
+タクティカルクリア=Tactical Clear
+
+アストルチャージ=Astor Charge
+エーテルシールド=Ether Shield
+
+→ Risk Codes
+バーストトリガー=Burst Trigger
+
+アビスビジョン=Abyss Vision
+
+ダークレゾナンス=Dark Resonance
+
+
+ヴォイドバリア=Void Barrier
+ナイトメアチャージ=Nightmare Charge
+ブラッドサキュレート
+カオスエナジー=Chaos Energy
+イクリプスゲイン=Eclipse Gain
+ファントムドライブ=Phantom Drive
+
+
+Abyss Code Parameters
+→ Conditions
+→ → Battle Start
+sr:"^(?:戦闘開始時に|戦闘開始時、)(\S+)"=(Battle Start) $1
+
+→ → Crest
+sr:"^(?<pos>フロント|バック|アシスト)キャラに(?<crest>紋章：(?:衝撃|情熱))が付与された時、(\S+)"=When a ${pos} Unit gains ${crest}, $1
+sr:"^(?<pos>フロント|バック|アシスト)キャラ[に|の](?<crest>紋章：衝撃)が消費された時、(\S+)"=When a ${pos} Unit spends ${crest}, $1
+sr:"^(?<pos>フロント|バック|アシスト)キャラの(?<crest>紋章：情熱)1ごとに、(\S+)"=For each ${pos} ${crest}, $1
+sr:"^バックキャラに"
+
+→ → Force Chain
+sr:"^(?<pos>フロント|バック|アシスト)キャラがFC発動時、(\S+)"=On ${pos} FC, $1
+
+→ → Time
+sr:"^(?<dur_i>[0-9]+)秒経過ごとに、(\S+)"=Every ${dur_i}s, $1
+
+→ → Erosion Conditional
+sr:"^(浸食率)(?<val_i>[0-9]+[%|％])以上の時、(?<effect>\S+?)"=If <color\=#ff8232>Erosion</color> >\=${val_i}, ${effect}
+sr:"^(浸食率)(?<val_i>[0-9]+[%|％])以下の時、(?<effect>\S+?)"=If <color\=#ff8232>Erosion</color> <\=${val_i}, ${effect}
+sr:"^(浸食率)が高いほど(\S+)"=As <color\=#ff8232>Erosion</color>↑, $2
+sr:"^(浸食率)が低いほど(\S+)"=As <color\=#ff8232>Erosion</color>↓, $2
+
+→ Effects
+→ → Stat Gain
+sr:"^(?<stat>最大HP|攻撃力|防御力|会心率|会心ダメージ|連撃率|スキルチャージ効率|スキルダメージ)が(?<val_i>【[0-9]+(?:\.\d+)*[%|％]】)上昇する"=${val_i}${stat}↑
+sr:"^(?<pos>フロント|バック|アシスト)全体の(?<stat>最大HP|攻撃力|防御力|会心率|会心ダメージ|連撃率|スキルチャージ効率|スキルダメージ)が(?<val_i>【[0-9]+(?:\.\d+)*[%|％]】)上昇する"=all ${pos} Units${val_i}${stat}↑
+sr:"^(?<dur_i>[0-9]+)秒間(?<pos>フロント|バック|アシスト)全体の(?<stat>最大HP|攻撃力|防御力|会心率|会心ダメージ|連撃率|スキルチャージ効率|スキルダメージ)が(?<val_i>【[0-9]+(?:.\d)*[%|％]】)上昇する"=all ${pos} Units gain${val_i}${stat}↑(${dur_i}s)
+sr:"^(?<dur_i>[0-9]+)秒間付与されたキャラの(?<stat>最大HP|攻撃力|防御力|会心率|会心ダメージ|連撃率|スキルチャージ効率|スキルダメージ)が(?<val_i>【[0-9]+[%|％]】)上昇する"=they gain${val_i}${stat}↑(${dur_i}s)
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラの(?<stat>最大HP|攻撃力|防御力|会心率|会心ダメージ|連撃率|スキルチャージ効率|スキルダメージ)が(?<val_i>【[0-9]+[%|％]】)上昇する"=${ele} Units gain${val_i}${stat}↑
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラの(?<stat>最大HP|攻撃力|防御力|会心率|会心ダメージ|連撃率|スキルチャージ効率|スキルダメージ)が上昇する\(最大(?<val_i>【[0-9]+[%|％]】)\)"=${ele} Units gain ${stat}↑(Max${val_i})
+ 
+ 
+→ → Stat Reduction
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラの(?<stat>被ダメージ)が減少する\(最大(?<val_i>【[0-9]+(?:\.\d+)*[%|％]】)\)"=${ele} Units gain ${stat}↓(Max${val_i})
+
+→ → Gain Mana
+r:"^(?<ele>光・闇・無|火・水・土)属性のキャラのマナを(?<num_i>【[0-9]】)チャージ"=${ele} Units give${num_i}Mana
+ 
+→ → Charge Skill
+r:"^(?<ele>光・闇・無|火・水・土)属性のキャラのスキルを(?<num_i>【[0-9]】)チャージ"=${ele} Unit skills gain${num_i}charge
+
+→ → Grant Crest
+sr:"^(?<pos>フロント|バック|アシスト)全体に(?<crest>(?:紋章：)*(?:衝撃|情熱))を(?<num_i>【[0-9]】)付与する"=grant all ${pos} Units${num_i}${crest}
+
+→ → Erosion
+sr:"今後、(浸食率)の上昇量が(\d)減少し、浸食率の減少量は(\d)増加する。"=Future <color\=#ff8232>Erosion</color>↑ gains give <color\=#ff8232>$2</color> less, and <color\=#ff8232>Erosion</color>↓ reductions remove <color\=#ff8232>$3</color> more
+
+Abyss Code Parameters
+→ Conditions
+sr:"^(?>戦闘開始時に|戦闘開始時、)(?<effect>\S+)"=(Battle Start) ${effect}
+sr:"^(?<pos>フロント|バック|アシスト)キャラに(?<crest>紋章：(?>衝撃|情熱))が付与された時、(?<effect>\S+)"=When a ${pos} Unit gains ${crest}, ${effect}
+sr:"^(?<pos>フロント|バック|アシスト)キャラ[に|の](?<crest>紋章：衝撃)が消費された時、(?<effect>\S+)"=When a ${pos} Unit spends ${crest}, ${effect}
+sr:"^(?<pos>フロント|バック|アシスト)キャラの(?<crest>紋章：情熱)1ごとに、(?<effect>\S+)"=For every ${pos}line ${crest}, ${effect}
+sr:"^(?<pos>フロント|バック|アシスト)キャラがFC発動時、(?<effect>\S+)"=On ${pos} FC, ${effect}
+sr:"^(?<dur_i>[0-9]+)秒経過ごとに、(?<effect>\S+)"=Every <color\=#ff8232>${dur_i}s</color>, ${effect}
+sr:"^浸食率(?<val_i>[0-9]+[%|％])以上の時、(?<effect>\S+?)"=If <color\=#ff8232>Erosion</color> >\=${val_i}, ${effect}
+sr:"^浸食率(?<val_i>[0-9]+[%|％])以下の時、(?<effect>\S+?)"=If <color\=#ff8232>Erosion</color> <\=${val_i}, ${effect}
+sr:"^浸食率が高いほど(?<effect>\S+)"=As <color\=#ff8232>Erosion</color>↑, ${effect}
+sr:"^浸食率が低いほど(?<effect>\S+)"=As <color\=#ff8232>Erosion</color>↓, ${effect}
+
+
+→ Effects
+sr:"^(?<stat>最大HP|攻撃力|防御力|会心率|会心ダメージ|連撃率)が(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)上昇する"=${val_i}${stat}↑
+sr:"^(?<pos>フロント|バック|アシスト)全体の(?<stat>[^が]+)が(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)上昇する"=all ${pos}line ${val_i}${stat}↑
+sr:"^(?<pos>フロント|バック|アシスト)全体の(?<stat>[^が]+)が最大(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)上昇する"=${pos}line gains ${stat}↑, up to${val_i}
+sr:"^(?<dur_i>[0-9]+)秒間(?<pos>フロント|バック|アシスト)全体の(?<stat>[^が]+)が(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)上昇する"=${pos}line gains${val_i}${stat}↑(${dur_i}s)
+sr:"^(?<dur_i>[0-9]+)秒間付与されたキャラの(?<stat>[^が]+)が(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)上昇する"=they gain${val_i}${stat}↑(${dur_i}s)
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラの(?<stat>[^が]+)が(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)上昇する"=${ele} Units gain${val_i}${stat}↑
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラの(?<stat>[^が]+)が上昇する\(最大(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)\)"=${ele} Units gain ${stat}↑(Max${val_i})
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラの(?<stat>[^が]+)が減少する\(最大(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)\)"=${ele} Units gain ${stat}↓(Max${val_i})
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラのマナを(?<num_i>【[0-9]】)チャージ"=${ele} Units give${num_i}Mana
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラのスキルを(?<num_i>【[0-9]】)チャージ"=${ele} Unit skills gain${num_i}charge
+sr:"^(?<pos>フロント|バック|アシスト)全体に(?<crest>紋章：(?>衝撃|情熱))を(?<num_i>【[0-9]】)付与する"=grant all ${pos} Units${num_i}${crest}
+_sr:"^(?<pos>フロント|バック|アシスト)全体に(?<crest>衝撃)を(?<num_i>【[0-9]】)付与する"=grant all ${pos} Units${num_i}<color\=#6a8bfc>${crest}</color>
+_sr:"^(?<pos>フロント|バック|アシスト)全体に(?<crest>情熱)を(?<num_i>【[0-9]】)付与する"=grant all ${pos} Units${num_i}<color\=#fc4e4d>${crest}</color>
+sr:"今後、(浸食率)の上昇量が([0-9])減少し、浸食率の減少量は([0-9])増加する。"=Future <color\=#ff8232>Erosion</color>↑ gains give <color\=#ff8232>$2</color> less, and <color\=#ff8232>Erosion</color>↓ reductions remove <color\=#ff8232>$3</color> more
+
+→ Reference
+_stat (?<stat>最大HP|攻撃力|防御力|会心率|会心ダメージ|連撃率|スキルチャージ効率|スキルダメージ)
+_stat_inverse (?<stat>被ダメージ)
+ ↑ stats that can be reduced
+_crest (?<crest>紋章：(?:衝撃|情熱)) OR (?<crest>紋章：衝撃|紋章：情熱)
+_pos (?<pos>フロント|バック|アシスト)
+_ele (?<ele>光・闇・無|火・水・土)属性のキャラ
+_dur (?<dur_i>[0-9]+)秒間
+_num_brackets (?<num_i>【[0-9]】)
+_val_nodecimal (?<val_i>【[0-9]+[%|％]】)
+ ↑ Won't catch values with decimals
+_val_brackets (?<val_i>【[0-9]+(?:\.\d+)*[%|％]】)
+ ↑ Preferred, catches values with decimal point as well
+ 
+Autogeneratednames
+改=Kai
+アビスバスター=Abyss Buster
+真=True
+スウィフトウェーブ=Swift Wave
+ソニックラッシュ=Sonic Rush
+バックストライク=Backstrike
+ライブエネルギー=Live Energy
+ナルテージ=Nartage
+バーニビリティ=Burnability
+マナポテンシャル=Mana Potential
+ディアンサンチュリ=Dian Santuri
+マテリアルフロー=Material Flow
+アクセルフォーム=Accelerator Form
+マインドアイ=Mind Eye
+アビスエンボディ=Abyss Embody
+カタストフラム=Catastrophe Flam
+マッドブレイズ=Mud Blaze
+カラミティボディ=Calamity Body
+カースドソース=Cursed Source
+光・闇・無=Light・Dark・Neutral
+火・水・土=Fire・Water・Earth
