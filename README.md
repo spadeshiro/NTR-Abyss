@@ -1,5 +1,5 @@
 # NTR-Abyss English Fanpatch
-<img width="1400" height="622" alt="NTRAbyss-large" src="https://github.com/user-attachments/assets/0c556fd2-8b15-4d70-abc4-b38cd8d9b46d" />
+<img width="1400" height="622" alt="NTRAbyss-large" src="https://github.com/user-attachments/assets/1c1406dc-715b-493a-b1da-d7c91425e2e7" />
 English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear
 
 ## Features
