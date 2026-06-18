@@ -1,0 +1,35 @@
+武器=Weapon
+スタンス=Stance
+防具=Armor
+
+Nation?
+ペルディオン=Perdion
+ミレスガルド=Millesgard
+エルドラーナ=Eldrana
+千国連合=Coalition
+ルクスノヴァ=Luxnova
+
+Stance
+バック=Back
+アシスト=Assist
+フロント=Front
+
+Weapon
+銃=Gun
+杖=Cane
+魔導書=Magic Book
+ピッケル=Pickaxe
+片手剣=One-Handed Sword
+大剣=Great Sword
+拳=Fist
+弓=Bow
+
+Armor
+作業着=Work Gear
+鎧=Armor
+マント=Cloak
+
+Attribute
+水属性=Water
+火属性=Fire
+無属性=Neutral

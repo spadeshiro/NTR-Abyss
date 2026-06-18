@@ -1,0 +1,1 @@
+sr:"^(?<effect1>[\S\s]+)<br><color\=#D7DEF8>【覚醒効果】<\/color>(?<effect2>[\S\s]+)$"=${effect1}<br><color\=#D7DEF8>[Awakened Effect] </color>${effect2}
