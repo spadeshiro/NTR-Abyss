@@ -46,9 +46,19 @@ Name
 テルー=Teru
 セレスト=Celeste
 ヤチヨ=Yachiyo
+ディアーナ=Diana
+ルシータ=Lucita
+クレハ=Kureha
+シラエス=Shiraes
+グラディア=Gladia
+エアリエル=Aeriel
+ヘンリエッタ=Henrietta
+レヴィエーヌ=Levienne
 オレンジ髪の少女=Orange Hair Girl
 
 Title
+太陽の踊り子=Sun Dancer
+雷撃の導き手=Thunderstrike Guide
 超可愛的暴力少女=Super Cute Violent Girl
 秘密を抱く聖職者=Priestess with a Secret
 桃色の一閃=Pink Flash
