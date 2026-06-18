@@ -5,6 +5,7 @@ English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear
 ## Features
 - Translated most of the UI
 - Translations for gameplay-related stuff, eg. character kits, abyss mode, brothel minigame, etc.
+This translation is powered by [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) on top of [BepinEx](https://github.com/BepInEx/BepInEx). Without these two, this translation would never happen.
 
 ## Installation
 1. Download release build
