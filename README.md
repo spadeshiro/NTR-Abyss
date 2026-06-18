@@ -1,6 +1,6 @@
 # NTR-Abyss English Fanpatch
 <img width="1400" height="622" alt="NTRAbyss-large" src="https://github.com/user-attachments/assets/1c1406dc-715b-493a-b1da-d7c91425e2e7" />
-English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear, powered by [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) on top of [BepinEx](https://github.com/BepInEx/BepInEx).
+English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear, powered by XUnity.AutoTranslator on top of BepinEx.
 
 ## Features
 - Translated most of the UI
