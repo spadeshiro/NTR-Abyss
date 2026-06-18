@@ -1,12 +1,11 @@
 # NTR-Abyss English Fanpatch
 <img width="1400" height="622" alt="NTRAbyss-large" src="https://github.com/user-attachments/assets/1c1406dc-715b-493a-b1da-d7c91425e2e7" />
-English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear, powered by XUnity.AutoTranslator on top of BepinEx.
+English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear, powered by XUnity.AutoTranslator on top of BepinEx.  
+This translation is powered by [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) on top of [BepinEx](https://github.com/BepInEx/BepInEx). Without these two, this translation would never happen.
 
 ## Features
 - Translated most of the UI
 - Translations for gameplay-related stuff, eg. character kits, abyss mode, brothel minigame, etc.
-
-This translation is powered by [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) on top of [BepinEx](https://github.com/BepInEx/BepInEx). Without these two, this translation would never happen.
 
 ## Installation
 1. Download release build
