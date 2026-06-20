@@ -10,6 +10,16 @@ English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear
 1. Download release build
 2. Extract to your Dot Abyss installation folder
 
+## Uninstallation
+In case you're no longer interested in the English patch or you're having issues trying to run it (as it's pretty heavy for low-end PC), uninstalling the patch is as easy as removing these files:
+- BepinEx folder
+- Dotnet folder
+- winhttp.dll
+- .doorstop_version
+- doorstop_config.ini
+
+The patch itself doesn't alter or break any of the in-game files, there's no extra steps required to make sure the game is fully back to vanilla state.
+
 ## Current Limitation
 - At the moment, we are still yet able to translate story due to how it's programmed. We're still figuring out.
 - There's no way of dumping and translating texture, so it's not in our pipeline.
