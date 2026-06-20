@@ -2,6 +2,13 @@
 <img width="1400" height="622" alt="NTRAbyss-large" src="https://github.com/user-attachments/assets/1c1406dc-715b-493a-b1da-d7c91425e2e7" />
 English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear, powered by XUnity.AutoTranslator on top of BepinEx.  
 
+## Contributors
+- SpadesHiro
+- Abaddon
+- Scopolamin
+- Shimpfiedrice
+- Cornelia
+
 ## Features
 - Translated most of the UI
 - Translations for gameplay-related stuff, eg. character kits, abyss mode, brothel minigame, etc.
