@@ -7,8 +7,8 @@ English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear
 - Translations for gameplay-related stuff, eg. character kits, abyss mode, brothel minigame, etc.
 
 ## Installation
-1. Download release build
-2. Extract to your Dot Abyss installation folder
+1. Download the [latest release build](https://github.com/spadeshiro/NTR-Abyss/releases)
+2. Extract to your Dot Abyss installation folder, replace files when asked
 
 ## Uninstallation
 In case you're no longer interested in the English patch or you're having issues trying to run it (as it's pretty heavy for low-end PC), uninstalling the patch is as easy as removing these files:
