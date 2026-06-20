@@ -21,8 +21,7 @@ In case you're no longer interested in the English patch or you're having issues
 The patch itself doesn't alter or break any of the in-game files, there's no extra steps required to make sure the game is fully back to vanilla state.
 
 ## Current Limitation
-- At the moment, we are still yet able to translate story due to how it's programmed. We're still figuring out.
-- There's no way of dumping and translating texture, so it's not in our pipeline.
+- Story translation is being worked on, but due to the limitation it will take a bit of a time to have them properly translated.
 - In case you're asking, no, we don't plan on making android version as we lack the expertise and manpower.
 
 ## Troubleshooting
