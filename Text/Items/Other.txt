@@ -1,0 +1,9 @@
+大穴から採掘された神秘的な宝石。人を惹き寄せると言われている。様々な用途に使用できる。=A mysterious gem mined from the Abyss. It is said to attract people. Can be used for various purposes.
+トレスリア地方全域で流通している通貨。様々な用途に使用できる。=Currency circulated throughout the Treslia region. Can be used for various purposes.
+お客様に喜ばれた時に貰える感謝のチップ。\n「交換所」でアビリティ強化素材などと交換できる。\n主に「ルディアのお店」の営業報酬などで獲得できる。=A tip of appreciation given when customers are satisfied.\nCan be traded for ability enhancement materials at the Exchange.\nMainly obtained as business rewards from Ludia's Shop.
+厄災を討伐し、トレスリア地方の安寧を守った証。\nショップの「交換所」でアビリティ強化素材などと交換できる。\n主に迎撃戦の報酬として獲得できる。=Proof of defeating Calamities and protecting the peace of the Treslia region.\nCan be traded for ability enhancement materials at the Exchange.\nMainly obtained as rewards from Interception Battles.
+フレンドからもらえるポイント。\n交換所で様々な景品と交換することができる。=Points received from friends.\nCan be traded for various prizes at the Exchange.
+キャラクターを成長させる経験値。=Experience points to grow characters.
+プレイヤーを成長させる経験値。=Experience points to grow the player.
+深淵内で手に入る鍵。深淵内でのみ使用できる。=Keys obtained within the Abyss. Can only be used within the Abyss.
+ミッションパスレベルを上昇させることができるポイント。=Points that can increase Mission Pass level.

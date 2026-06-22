@@ -1,0 +1,6 @@
+/Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AbyssCodeSelect(Clone)/Anim/List/Code_1/AbyssCode_1/RootUI/AbyssCode_Detail/TextArea/Text=ChangeFontSize(15)
+/Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AbyssCodeSelect(Clone)/Anim/List/Code_2/AbyssCode_2/RootUI/AbyssCode_Detail/TextArea/Text=ChangeFontSize(15)
+/Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AbyssCodeSelect(Clone)/Anim/List/Code_3/AbyssCode_3/RootUI/AbyssCode_Detail/TextArea/Text=ChangeFontSize(15)
+/Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_NetherEvent(Clone)/Anim/Contnet/Choice/Choice1/Button/RootUI/Frame/TitleText=ChangeFontSize(25)
+/Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_NetherEvent(Clone)/Anim/Contnet/Choice/Choice2/Button/RootUI/Frame/TitleText=ChangeFontSize(25)
+/Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_NetherEvent(Clone)/Anim/Contnet/Choice/Choice3/Button/RootUI/Frame/TitleText=ChangeFontSize(25)

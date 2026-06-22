@@ -1,0 +1,315 @@
+編成中=<size\=90%><cspace\=-0.1em>In Party
+
+Party Setup Page
+編成コピー=Copy
+編成名変更=Change Name
+おまかせ\n編成=Auto\nSet
+一括解除=Release
+クイック\n選択=Quick\nSelect
+編成名変更=Rename party
+編成コピー=<size\=90%>Copy party
+マナクリスタル=Mana Crystal
+アシスト\nボーナス=Assist\nBonus
+登録=Register
+キャラ=Chara
+防御=Def
+攻撃=Atk
+総合戦力=<line-height\=60%><cspace\=-0.1em>Total PWR
+すべて外す=Remove all
+消費マナ=Mana Cost
+最大チェイン可能人数=<size\=80%>Max character chain
+フロントキャラがチェイン対象=<size\=80%>Front characters are chainable
+バックキャラがチェイン対象=<size\=80%>Back characters are chainable
+アシストキャラがチェイン対象=<size\=80%>Assist characters are chainable
+r:"^/([0-9]+)キャラ$"=/$1 chara
+装備=Equip
+変更=Change
+移動=Move
+/12文字=<size\=60%>/12 letters
+編成名=Party Name
+編成情報登録=Party Detail Registration
+一括解除を行います。<br>すべてのキャラクターとマナクリスタルが外れます。=Performing bulk removals.<br>All characters and mana crystals will be removed.
+r:"^ポジション([0-9]+)$"=Position $1
+編成を登録しました。=Party composition successfully registered.
+戦力優先=Prioritize Force
+バランス優先=Prioritize Balance
+未登録の変更内容があります<br>変更内容を破棄して編成を終了しますか？=There are unregistered changes.<br>Discard the changes and end the configuration?
+キャラクター変更=<size\=90%><line-height\=60%>Change character
+装備変更=<size\=90%><line-height\=60%>Change equipment
+キャラクター強化=<size\=90%><line-height\=60%>Character enhancement
+
+Equipment page
+装備中=<size\=90%>Equipped
+所持装備=Owned
+一括分解へ=Dismantle
+一括ロック=Bulk lock
+設定した内容の装備が選択されます=<size\=90%>Select equip(s) to dismantle.
+すべて選択=Select All
+マイレージ=Mileage
+アクセサリ=Accessory
+一括分解=<cspace\=-0.1em><size\=90%><line-height\=60%>Batch\nDismantle
+分解総数：=Total to dismantle:\n   
+獲得アイテムはありません。=No item to obtain.
+アクセサリ Lv=<cspace\=-0.1em><size\=90%><line-height\=60%>Accessory Lv
+防具 Lv=<cspace\=-0.1em><size\=90%><line-height\=60%>Armor Lv
+武器 Lv=<cspace\=-0.1em><size\=90%><line-height\=60%>Weapon Lv
+報酬まで=<cspace\=-0.1em><size\=90%><line-height\=60%>To next reward
+
+Character Stats
+武器タイプ=Weapon
+防具タイプ=Armor
+最大HP=Max HP
+会心率=CRT％
+会心ダメージ=CRD
+レベルアップ=Level Up
+スキル=Skill
+アビリティ強化=<line-height\=60%>Enhance Ability
+基本情報=<line-height\=60%>Basic Information
+限界突破=Limit Break
+攻撃力=Atk
+防御力=Def
+連撃率=<size\=90%><line-height\=60%>Consec. Hit Rate
+弱点属性特攻=<size\=90%>Weak Attr. SATK
+回避率=Evasion rate
+チャージ効率=Charge eff.
+炎上耐性=Flame res
+凍結耐性=Frz. res
+石化耐性=Petr. res
+麻痺耐性=Para. res
+魅了耐性=Charm res
+喪失耐性=Loss res
+弱点特攻=Wk. Exploit
+属性特攻=<cspace\=-0.1em><line-height\=60%>Elemental bonus
+会心ダメ=CRD
+アビリティ=Ability
+パラメータ=Parameters
+覚醒pt=<size\=70%>Awakening pt
+絆Pt=Kizuna Pt
+絆pt=<size\=75%>Bonds pt
+シンクロレベル\n強化へ=<size\=80%><line-height\=60%>Strenghten via\nsynchro level
+レベルシンクロで\nレベルを共有しています。=Levels shared through synchro.
+限界突破\nボーナス=Limit breaking\nbonus
+装着中=In use
+未所持=<size\=75%>Unowned
+消費素材リスト=Consumed materials list
+強化=<size\=90%>Upgrade
+限界突破回数=Limit break amount
+アイテムを使用して限界突破を行います。=Use item(s) to limit break.
+「交流」で絆Lvを5以上にすると<br>アビリティの解放が可能になります。=By raising to Bond Lv5 or higher, <br>you are able to unlock this ability.
+アイテムを使用してマナ覚醒を行います。=Use items to awaken mana.
+マナ覚醒=Awakening
+解放=<size\=70%>Unlock
+アイテムを消費してアビリティを解放=Consume items to unlock abilities
+アイテムを使ってアビリティを解放します。=Consume items to unlock abilities.
+sr:"^絆Lvを強化することで<br><color\=#4cf37b>([\S\s]+)</color>のLv上限を<color\=#4cf37b>10</color>にできます。<br>絆Lvを強化しますか？$"=By increasing your Bond Lv, you can raise <br>the level cap for <color\=#4cf37b>$1</color> to <color\=#4cf37b>10</color>. <br>Do you want to increase your Bond Lv?
+素材が足りません=Insufficient
+消費覚醒pt=<line-height\=60%>Consumed Awakening Pt
+所持覚醒pt=<line-height\=60%>Owned Awakening Pt
+所持絆pt=<line-height\=60%>Owned \nBond Pt
+消費絆pt=<line-height\=60%>Consumed Bond Pt
+ポイントが足りません=<cspace\=-0.1em>Insufficient points
+強化初期化=<cspace\=-0.1em><line-height\=30%><size\=80%>Reset enhancements
+覚醒強化=Awakening Enhancement
+絆強化=Strengthen Bonds
+石化=<cspace\=-0.1em><size\=80%>Petrify
+魅了=<cspace\=-0.1em><size\=80%>Charm
+凍結=<cspace\=-0.1em><size\=80%>Freeze
+麻痺=<cspace\=-0.1em><size\=80%>Paral.
+状態異常耐性=Abnormal status resistance
+
+Mana crystals System (had to manually input them because of some names being used in other places)
+マナクリスタル選択=Crystal Select
+研究で強化=<size\=90%>Strengthen
+説明=Explanation
+チェイン効果=Chain Effect
+[フォースチェイン]\r=[Force Chain]\r
+[フォースチェイン追加効果]\r=[Force Chain additional effect]\r
+[オート操作時のフォースチェイン使用条件]\r=[Force Chain auto condition]\r
+マナクリスタル【回復】=Mana Crystal [Recovery]
+衝撃のマナクリスタル【解除】=Impact Mana Crystal [Removal]
+情熱のマナクリスタル【復活】=Zeal Mana Crystal [Revival]
+情熱のマナクリスタル【崩壊】=Zeal Mana Crystal [Collapse]
+衝撃のマナクリスタル【猛毒】=Impact Mana Crystal [Violent]
+マナクリスタル【金剛】=Mana Crystal [Adamantine]
+マナクリスタル【破壊】=Mana Crystal [Destruction]
+衝撃のマナクリスタル【烈風】=Impact Mana Crystal [Repair]
+情熱のマナクリスタル【剛力】=Zeal Mana Crystal [Strength]
+汎用=General
+
+-Mana crystal activation
+HP50%以下の味方がいるとき自動で発動=Activates automatically when there is an ally with HP below 50%.
+HP50%以下の味方、または状態異常の味方がいるとき自動で発動=Activates automatically when there is an ally with HP below 50% or an ally with status abnormality.
+r:"^マナが([0-9]+)以上あるとき自動で発動$"=Activates automatically when mana is $1 or more
+r:"^敵が([0-9]+)体以上いるとき自動で発動$"=Activates automatically when there are $1 or more enemies
+敵がアサルトモードに突入したとき=When the enemy enters assault mode
+
+-Mana crystal effects
+r:"^味方全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】の回復$"=Restores [1HIT / 100％] of HP to all allies with an attack power of [<color\=#4cf37b>$1</color>]
+r:"^敵全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】のダメージ$"=Deals [1HIT / 100％] damage to all enemies with an attack power of [<color\=#4cf37b>$1</color>]
+r:"^敵全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】のダメージ / 防御力DOWN【20％ / 20秒】を付与$"=<size\=80%>Inflicts [1 HIT/100%] damage to all enemies with an ATK of [<color\=#4cf37b>$1</color>] and reduce their DEF by [20%/20 seconds]
+r:"^【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×(\d+(?:\.\d*)?)％分上昇$"=<size\=80%>[Condition] Allies with Crest: Zeal value of 5 or higher participate in the Chain\n[Effect] Increase DEF DOWN effect by 7.5% for each participant who meets the condition
+r:"^敵全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】のダメージ / 敵全体にノックバックLv([0-9]+)$"=Deal [<color\=#4cf37b>$1</color>] damage to all enemies with [1 HIT / 100%] / Knocks back all enemies (Lv$2)
+【条件】<color\=#6B8CFF>紋章：衝撃</color>が5以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【1HIT / 125％】のダメージ=[Condition] Allies with <color\=#6B8CFF>Crest: Impact</color> of 5 or higher\n[Effect] Deals [1 HIT / 125%] damage to all enemies based on the total attack of participants
+r:"^味方全体に攻撃力UP【<color\=#4cf37b>(\d+(?:\.\d*)?)</color>％ / 20秒】を付与$"=Grants all allies an Attack of [<color\=#4cf37b>$1</color>% / 20 seconds]
+【条件】<color\=#FF5050>紋章：情熱</color>が5以上の味方がチェインに参加\n【効果】味方全体に条件を満たした参加者の人数×10％の与ダメージUP【20秒】を付与=[Condition] Allies with <color\=#FF5050>Crest: Zeal</color> of 5 or higher\n[Effect] Grants all allies a 10% damage boost [20 seconds] equal to the number of participants
+r:"^敵全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】のダメージ / 毒【10秒】を付与$"=Deals [<color\=#4cf37b>$1</color>] damage to all enemies in a single hit (100%) and inflicts Poison for [10 seconds]
+【条件】<color\=#6B8CFF>紋章：衝撃</color>が5以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇=[Condition] An ally with <color\=#6B8CFF>Crest: Impact</color> of 5 or higher\n[Effect] Poison damage increases based on the number of participants
+r:"^【条件】<color\=#FF5050>紋章：情熱</color>が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×(\d+(?:\.\d*)?)％分上昇$"=[Condition] Allies with <color\=#FF5050>Crest: Zeal</color> of 5 or higher\n[Effect] Increase Defense down by $1% for each participant
+r:"^味方全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】の回復 / 味方全体からランダムに1つの状態異常を解除$"=Heals all allies with an attack of [<color\=#4cf37b>$1</color>] for [1 HIT / 100%] / Removes one random status ailment from all allies
+【条件】<color\=#6B8CFF>紋章：衝撃</color>が5以上の味方がチェインに参加\n【効果】味方全体からランダムに条件を満たした参加者の人数分、状態異常を解除=[Condition] An ally with <color\=#6B8CFF>Crest: Impact</color> of 5 or higher\n[Effect] Removes status ailments from a random number of allies equal to the number of participants
+【条件】<color\=#FF5050>紋章：情熱</color>が5以上の味方がチェインに参加\n【効果】味方に条件を満たした参加者の合計攻撃力で【1HIT / 150％】の回復=[Condition] Allies with <color\=#FF5050>Crest: Zeal</color> of 5 or higher\n[Effect] Heals for [1 HIT / 150%] of the total attack power of participating allies
+r:"^ランダムな味方1体を蘇生 / 味方全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】の回復$"=Revives 1 random ally / Heals all allies by [1HIT / 100%] with an attack power of [<color\=#4cf37b>$1</color>]
+
+Level Synchro
+レベルシンクロ=Level Sync
+シンクロLv強化=Sync Lv Up
+アイテムを使用し、全キャラクターのシンクロLvをUPします。=Raise all characters' Synchro Level using items.
+シンクロLv=<line-height\=60%>Synchro Lv
+シンクロLv上限解放=Synchro Limit
+アイテム使用して、シンクロLv上限解放を行います。=Raise the Synchro limit using items.
+シンクロLvの上限解放=Increase Synchro Lv Cap
+r:"シンクロLvを([0-9]+)にすることで上限解放が可能になります$"=Limit may be increased upon reaching\nSynchro Lv $1
+強化内容=Details
+シンクロLvを強化しますか？=Do you want to increase your synchro level?
+シンクロLvを強化すると全キャラクターのLvがアップします。=All characters' Lv will increase.
+
+Bonding
+ボーナス=Bonus
+贈る=Give
+絆Lv=Bond Lv
+キャラ詳細=<cspace\=-0.05em><line-height\=60%>Character\nDetails
+プロフィール=Profile
+通常用<br>コスチューム=Standard<br>Costume
+おしごと用<br>コスチューム=Work<br>Costume
+sr:"^([\S\s]+)はスタッフとしておしごとできるようになりました$"=$1 is now able to work as a staff member.
+sr:"^スタッフとして<br>【([\S\s]+)】を登録しました。$"=[$1] has been registered<br>as a staff.
+確認して次へ=Confirm
+覚醒Pt=<size\=75%>Awakening Pt
+能力強化=<size\=80%><line-height\=60%>Ability\nEnhancement
+以下の贈り物をプレゼントしますか？=Would you like to give the following gifts?
+キャラクターストーリーが開放されました。<br>閲覧しますか？=Character story has been unlocked.<br>Would you like to view?
+閲覧する=View
+娼館の「おしごと」に配置しておしごとで<br>様々な報酬を受け取ることができます。=You can assign them to "work" at the brothel <br>and receive various rewards for their work.
+娼館へ=To brothel
+このシーンは 主人公以外とのHシーンです。=This H-scene is with someone other than the MC.
+このシーンは主人公以外とのHストーリーです。=This H-scene is with someone other than the MC.
+sr:"^「([\S\s]+)」の新しいアビリティ<br><color\=#4cf37b>「([\S\s]+)」</color>を解放可能になりました。$"=$1's new ability<br><color\=#4cf37b>「$2」</color> can be unlocked.
+キャラ詳細へ=<size\=90%>To character
+sr:"^「([\S\s]+)」<br>を再生します。よろしいですか？$"=「$1」<br>is about to play.\nAre you sure?
+再生=Play
+r:"^絆Lv([0-9]+)以上$"=Bond Lv$1 or higher
+所持数=Owned
+ストーリー開放条件=Story Unlock Requirement
+r:"^絆Lv([0-9]+)で解放$"=Unlocked at Bond Lv$1
+このストーリーはまだ開放されていません。<br>以下の条件をクリアしましょう！=This story has not been unlocked yet.<br>Let's clear the following requirements!
+
+Sorting / Filtering
+お気に入り登録=<size\=80%>   Add to favorites
+登録完了=<size\=80%>   Click to Complete
+表示切替=<size\=70%>Switch Display
+
+display
+sr:"^(戦力|攻撃力|防御力|炎上耐性|凍結耐性|石化耐性|麻痺耐性|魅了耐性|喪失耐性|絆Lv): ([0-9]+)$"=$1: $2
+
+レアリティ=Rarity
+戦力=PWR
+入手=Obtain
+
+ソート=Sort
+フィルター=Filter
+フィルター初期化=Reset Filter
+所属勢力=<size\=95%>Faction
+登録済=Registered
+登録なし=<size\=90%>Unregistered
+未開放ストーリーがある=Contains unlockable story
+スタッフ登録=Staff registration
+ストーリー=Story
+衣装種別=<size\=80%>Cos type
+衣装=Default
+火=Fire
+光=<size\=85	%>Light
+闇=<size\=80	%>Dark
+土=Soil
+水=<size\=70	%>Water
+無=<size\=55	%>Neutral
+最大チェイン数=Max chains
+紋章=Crest
+
+キャンセル=Cancel
+決定=Accept
+その他=Misc.
+表示設定=Display Settings
+使用中=In use
+ロック中=Locked
+未ロック=Unlocked
+装備の紋章=Equip Crest
+紋章なし=None
+装備カテゴリ=Eq. Type
+未鑑定装備=<size\=85%>Unidentified
+ランク=Rank
+
+Character Profile
+誕生日=Birthday
+好きなもの=Likes
+嫌いなもの=Dislikes
+所属国=<size\=90%>Affiliation
+別バージョン選択=Select Another Version
+別バージョン=<size\=80%>Another version
+演出=Direction
+キャラからの贈り物=Giving gift
+Lvアップ=Lv up
+親愛度アップ②=Affinity level up ②
+親愛度アップ①=Affinity level up ①
+親愛度アップ③=Affinity level up ③
+キャラ詳細画面①=Character details screen ①
+キャラ詳細画面②=Character details screen ②
+おしごと配置=Job arrangement
+提案カード①=Suggestion card ①
+自己紹介=Self-introduction
+提案カード②=Suggestion card ②
+交流画面おしごとコス①=Social screen: Work costume ①
+交流画面おしごとコス②=Social screen: Work costume ②
+交流画面おしごとコス③=Social screen: Work costume ③
+交流画面おしごとコスにタッチ①=Social screen work costume tap ①
+交流画面おしごとコスにタッチ②=Social screen work costume tap ②
+交流画面おしごとコスにタッチ③=Social screen work costume tap ③
+クエスト出撃=Quest sortie
+厄災戦開始=Calamity war start
+キャラ編成時=When forming party
+通常攻撃①=Normal attack ①
+通常攻撃②=Normal attack ②
+通常攻撃③=Normal attack ③
+ダメージ(小)=Damage (S)
+ダメージ(大)=Damage (L)
+フォースチェインカットイン=Force chain cut-in
+戦闘不能=Unable to fight
+バトル開始=Battle start
+フォースチェイン=Force chain
+フロアパーツ移動時=When moving floor parts
+バトル部屋クリア時=When clearing battle room
+バトル部屋移動時=When moving to battle room
+バトル勝利=Battle victory
+バトル敗北=Battle defeat
+探索報酬獲得①=Obtain exploration reward ①
+探索報酬獲得②=Obtain exploration reward ②
+おしごと報酬獲得①=Earn job rewards ①
+おしごと報酬獲得②=Earn job rewards ②
+おしごと報酬獲得③=Earn job rewards ③
+階層踏破時=When traversing hierarchy
+スキン着せ替え時=When changing skin
+獲得演出=Acquisition Intro
+スタッフ登録演出=Staff Registration Intro
+
+Month Date
+r:"^1月([0-9]+)日$"=January $1
+r:"^2月([0-9]+)日$"=February $1
+r:"^3月([0-9]+)日$"=March $1
+r:"^4月([0-9]+)日$"=April $1
+r:"^5月([0-9]+)日$"=May $1
+r:"^6月([0-9]+)日$"=June $1
+r:"^7月([0-9]+)日$"=July $1
+r:"^8月([0-9]+)日$"=August $1
+r:"^9月([0-9]+)日$"=September $1
+r:"^10月([0-9]+)日$"=October $1
+r:"^11月([0-9]+)日$"=November $1
+r:"^12月([0-9]+)日$"=December $1

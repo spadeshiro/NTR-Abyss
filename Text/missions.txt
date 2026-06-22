@@ -1,0 +1,130 @@
+初心者\nミッション=Beginner\nMission
+ミッションパス=<cspace\=-0.1em>Mission Pass
+ミッション=Mission
+受け取り=Receive
+挑戦=<cspace\=-0.1em>Attempt
+一括受け取り=Receive All
+実績=Achievements
+期間限定=Limited-Time
+ウィークリー=Weekly
+デイリー=Daily
+
+Timer
+r:"^あと([0-9]+)時間$"=$1H left
+達成=Progress
+あと1日=1D left
+r:"^あと([0-9]+)日$"=$1D left
+
+Special Mission
+r:"^([0-9]+)日目$"=Day $1
+r":^いずれかのキャラクター([0-9]+)体をLv([0-9]+)にする$"=Raise any $1 characters to Lv$2
+施設の研究所で「シンクロ研究」を実行して、レベルシンクロを解放する=Perform "Synchro Research" to unlock level sync
+sr:"^メインストーリー([\S\s]+)([0-9]+)章をクリアする$"=Clear main story $1 Chapter $2
+1日目のログイン完了=Log in for the first day
+2日目もログインする=Log in on the second day
+r:"^いずれかのキャラクター([0-9]+)体を絆Lv([0-9]+)にする$"=Have any $1 character(s) to Bond Lv$2
+いずれかの探索クエストを1回クリアする=Clear any exploration quest once
+いずれかの装備を10個分解する=Dismantle 10 pieces of any equipment
+いずれかのキャラクター15体を獲得する=Obtain 15 of any character
+r:"^シンクロLv([0-9]+)に到達する$"=Reach Synchro Lv$1
+いずれかのキャラクター10体をLv10にする=Raise any 10 characters to Lv10
+r:"^キャラクターのアビリティ([0-9]+)個をLv5にする$"=Raise $1 character's ability to Lv5
+r:"^迎撃戦で厄災Lv([0-9]+)に到達する$"=Reach Calamity Lv$1 in interception battle
+r:"^娼館の営業で満足度([0-9]+)を達成する$"=Achieve $1 satisfaction in brothel
+施設の「鍛冶屋」の装備点検：体力をLv2にアップグレードする=Equipment Inspection at the “Blacksmith” Facility: Upgrade Stamina to Lv2
+施設の「娼館」の娼館の増築をLv2にアップグレードする=Upgrade “Brothel's” Brothel Expansion facility to Level 2
+絆Lvを上げて絆ptを1ポイント獲得する=Raise your bond level and earn 1 point of bond pt.
+【衝撃】【情熱】いずれかの探索クエストを12回クリアする=[Impact][Zeal] Clear any exploration quest 12 times.
+深淵でアビスコードを5個獲得して帰還する=Obtain 5 Abyss Codes in the Abyss and return.
+深淵の10階層に到達する=Reach Abyss Floor 10
+深淵30Fに到達する=Reach Abyss Floor 30
+いずれかの装備を100個獲得する=Obtain 100 pieces of any equipment
+施設の「兵器工場」の壁上・基地スキルの強化をLv3にアップグレードする=Upgrade wall & base skill at “Weapons Factory” to Lv3
+sr:"^勢力クエスト【([\S\s]+)STAGE3】をクリアする$"=Clear faction quest [$1 STAGE3]
+施設の「研究所」のマナクリスタル研究をLv3にアップグレードする=Upgrade Mana Crystal research at “Research Lab” to Lv3
+いずれかのランク3装備を1個獲得する=Obtain 1 piece of any rank 3 equipment
+
+Daily
+ログインする=Log in for the day
+クエストでスタミナを40消費する=Consume 40 stamina on a quest
+娼館で1回営業する=Operate brothel once
+探索報酬を1回受け取る=Receive exploration reward once
+探索クエストを1回クリアする=Clear exploration quest once
+装備を1つ獲得する=Obtain 1 piece of equipment
+迎撃戦で厄災を1回討伐する=Defeat Calamity once in interception battle
+交換所で1回交換する=Exchange once at the exchange office
+デイリーミッションを6つクリアする=Complete 6 daily missions
+
+Weekly
+r:"^([0-9]+)日間ログインする$"=Log in for $1 days
+いずれかの勢力クエストに5回挑戦する=Attempt any faction quest 5 times
+r:"^探索クエストを([0-9]+)回クリアする$"=Clear exploration quest $1 times
+深淵を2回帰還か撤退する=Return or retreat from the abyss twice
+r:"^迎撃戦で厄災を([0-9]+)回討伐する$"=Defeat Calamity $1 times in interception battle
+r:"^娼館で([0-9]+)回営業する$"=Operate brothel $1 times
+r:"^クエストでスタミナを([0-9]+)消費する$"=Consume $1 stamina on a quest
+ウィークリーミッションを10個クリアする=Complete 10 weekly missions
+r:"^装備を([0-9]+)個分解する$"=Dismantle $1 pieces of equipment
+いずれかのレジェンダリー装備を1個獲得する=Obtain 1 piece of any legendary equipment
+いずれかのエネミーを1500体討伐する=Defeat 1500 enemies
+
+Limited Time
+r:"^探索報酬を([0-9]+)回受け取る$"=Receive exploration reward $1 times
+司令官Lv10を達成する=Achieve Commander Lv10
+
+Achievements
+r:"^スタミナを([0-9]+)消費する$"=Consume $1 stamina
+r:"^司令官Lv([0-9]+)に到達する$"=Reach Commander Lv$1
+r:"^キャラクターを([0-9]+)体獲得する$"=Acquire $1 characters
+r:"^新しい勢力クエストを([0-9]+)回クリアする$"=Complete new faction quests $1 times
+いずれかのキャラクターに贈り物を300回贈る=Give a gift to any character 300 times
+キャラクター1体の絆Lvを30にする=Raise one character's bond level to 30
+キャラクターの限界突破かマナ覚醒を100回行う=Break the character's limit or awaken mana 100 times
+sr:"^メインストーリー([\S\s]+) ([0-9]+)章をクリアする$"=Clear main story $1 Chapter $2
+娼館で10回営業をする=Operate brothel 10 times
+キャラクターのアビリティレベルを1個10Lvにする=Raise a character's ability to Lv10
+娼館の営業で満足度4000を達成する=Achieve satisfaction level 4000 in brothel
+深淵に5回挑戦する=Challenge abyss 5 times
+新しい勢力クエストを15回クリアする=Complete new faction quests 15 times
+迎撃戦で厄災Lv5に到達する=Reach Calamity Lv5 in interception battle
+r:"^いずれかのコモン装備を([0-9]+)個獲得する$"=Obtain $1 pieces of any common equipment
+r:"^いずれかのエピック装備を([0-9]+)個獲得する$"=Obtain $1 pieces of any epic equipment
+r:"^いずれかのレジェンダリー装備を([0-9]+)個獲得する$"=Obtain $1 pieces of any legendary equipment
+r:"^いずれかのユニーク装備を([0-9]+)個獲得する$"=Obtain $1 pieces of any unique equipment
+r:"^いずれかの装備を([0-9]+)個分解する$"=Dismantle $1 pieces of equipment
+スタミナを6000消費する=Consume 6000 stamina
+r:"^交換所で([0-9]+)回交換する$"=Exchange $1 times at the exchange office
+r:"^施設「鍛冶屋」の装備点検：攻撃をLv([0-9]+)にする$"=Raise attack at facility “Blacksmith” to Lv$1
+r:"^施設「鍛冶屋」の装備点検：体力をLv([0-9]+)にする$"=Raise physical strength at facility “Blacksmith” to Lv$1
+r:"^施設「鍛冶屋」の装備点検：防御をLv([0-9]+)にする$"=Raise defense facility “Blacksmith” to Lv$1
+r:"^施設「司令本部」の探索支援計画をLv([0-9]+)にする$"=Raise search support plan at facility “Command Headquarters” to Lv$1
+r:"^施設「鍛冶屋」の溶鉱炉の整備をLv([0-9]+)にする$"=Raise blast furnace at facility “Blacksmith” to lv$1
+データ連携を行う=Perform data link
+r:"^いずれかのキャラクターに贈り物を([0-9]+)回贈る$"=Send gifts to any character $1 times
+r:"^キャラクターの限界突破かマナ覚醒を([0-9]+)回行う$"=Perform character limit break or mana awakening $1 times.
+r:"^娼館で([0-9]+)回営業をする$"=Operate brothel $1 times
+r:"^深淵に([0-9]+)回挑戦する$"=Challenge the abyss $1 times
+DMM GAME PLAYER版でログインする=Log in with DMM GAME PLAYER version
+
+Abyss
+期間限定深淵ミッション=Limited-time Abyss Mission
+sr:"^([\S\s]+)キャラだけで編成して深淵の最終階層から帰還する$"=Return from Abyss' final floor with only $1 characters.
+深淵の最終階層から1回帰還=Return from Abyss' final floor once
+r:"^深淵の最終階層から([0-9]+)回帰還$"=Return from Abyss' final floor $1 times
+r:"^アビスコードを([0-9]+)個獲得して帰還する$"=Return with $1 Abyss Codes
+「ベリサ」を編成した状態で深淵の最終階層から帰還=Return from Abyss' final floor with “Verisa” in the party
+
+Mission Pass
+シーズン=Season
+キャラクターに贈り物を5回贈る=Gift character(s) 5 times
+盗賊リーダーを1体討伐する=Defeat 1 bandit leader
+r:"^盗賊リーダーを([0-9]+)体討伐する$"=Defeat $1 bandit leaders
+勢力クエストに15回挑戦する=Clear faction quest 15 times
+深淵を15回クリアする=Clear Abyss 15 times
+sr:"^勢力クエストの【([\S\s]+)】に15回挑戦する$"=Challenge $1 faction quest 15 times
+キャラクターの限界突破を10回する=Limit break character(s) 10 times
+
+Event mission
+イベントステージを1回クリアする=Clear event stage once
+r:"^イベントステージを([0-9]+)回クリアする$"=Clear event stage $1 times
+r:"^チャレンジステージ([0-9]+)をクリアする$"=Clear Challenge Stage $1

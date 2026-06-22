@@ -1,0 +1,246 @@
+Quest names
+sr:"^([\S\s]+)STAGE([0-9]+)$"=<size\=90%>$1 STAGE$2
+r:"^キャラ経験値【深度([0-9]+)】$"=Chara EXP Points [depth $1]
+r:"^ボーナスクエスト【深度([0-9]+)】$"=Bonus Quest [Depth $1]
+
+Quest Detail Page
+クエスト詳細=Quest Detail
+r:"^第([0-9]+)ステージ"$=Stage $1
+おすすめ属性=Attr. Rec.
+出現エネミー=Enemy List
+推奨戦力：=PWR Rec.
+総戦力：=Total PWR:
+総合戦力：=Total PWR:
+防衛戦力：=DEF Force:
+パーティ戦力：=Party PWR:
+防衛準備=<size\=90%>DEF Prep
+パーティ編成=Edit Party
+このクエストは以下のメンバーで出撃します。=<size\=85%>Attempting quest with following members.
+勢力バフを確認=Faction Buffs
+初回クリア報酬=First Clear Rewards
+クリア報酬=<size\=80%>Clear Reward
+r:"^挑戦回数　([0-9]+)/3$"=<size\=90%>Attempt: $1/3
+挑戦回数\n=<size\=80%>Attempt\n
+マナ燃料=<size\=80%>Mana Fuel
+マナ=Mana
+出撃=Sortie
+出撃する=Sortie
+残り出撃回数=<line-height\=60%>Remaining Attempt
+出撃します。よろしいですか？=Proceeding. Confirm this action?
+所持=Qty
+ドロップアイテム一覧=Drop Item List
+なし=None
+追加アイテム入手確率=<line-height\=60%>Extra Item Drop Chance
+設備一覧=EQ List
+おまかせ=Auto Set
+一括撤去=<size\=80%>Remove all
+一括撤去確認=Removal Confirmation
+すべての防衛設備を撤去します。=Removing all defense equipment.
+分解した装備は失われます。=Dismantle equipment will be lost.
+装備中キャラ=<size\=90%>Equipped chara
+分解=Dismantle
+獲得できるマイレージ=Mileage you'll earn
+フォースチェイン\n追加効果\n=Force Chain\nExtra effects\n
+キャラクター編成=Adjust Party
+名前=Name
+消費プリズム=Consumption Prism
+コスト=Cost
+勢力バフ=Force Buff
+sr:"^(初|中|上)級([\S\s]+)勢力バフ$"=<line-height\=60%>$1 $2 faction buff
+sr:"^([\S\s]+)勢力【([0-9]+)人】編成$"=<line-height\=60%>$1 force \n[$2 people] formation
+勢力バフ一覧=<line-height\=50%>Force Buff List
+勢力バフ効果=<cspace\=-0.05em>Effect
+発動条件=<cspace\=-0.1em><size\=80%>Requirement
+この依頼では以下の勢力を編成することで<br>より強力なサポートを受けることができます。=In this mission, you can gain buffs<br>by assembling the following faction.
+
+interception quest
+厄災を討伐することで厄災Lvが上昇します。=<size\=70%>Defeating Calamities will increase the Calamity Level.
+厄災特殊個体を撃破したので厄災Lvが上昇しました。=Since you defeated the special Calamity variant, the Calamity Level has increased.
+配置可能な防衛設備があります。=Defensive structures can be deployed.
+sr:"^([\S\s]+)に出撃します。$"=Subduing $1.
+配置終了=Apply
+登録して出撃=<size\=80%>Register and Sortie
+大穴の巡回を行い、厄災Lvを低下させます。<br>よろしいですか？=<size\=90%>Patrolling the Great Abyss to lower the Calamity Level. <br>Is that okay?
+マナ燃料を消費する防衛設備を使用する=<size\=70%>Use equipment that consumes mana fuel
+現在の配置内容は上書きされます。=Current setup will be changed.
+おまかせ配置を実行します。=Executing automatic placement.
+フォースチェイン：=Force Chain:
+拠点防壁=Guard Wall
+厄災の迎撃=Interception of Disaster
+討伐許可証を消費し、厄災の討伐依頼を請け負います。=<size\=90%%>Consume permits and accept requests to subdue disasters.
+依頼を受ける=Receive
+sr:"^依頼書を消費して<color\=#4CF37Bff>「([\S\s]+)」</color>の<br>討伐依頼を請け負います。$"=Use a quest ticket to accept the <br>quest to defeat the <color\=#4CF37Bff>“$1”</color>.
+討伐依頼=Request
+依頼書=Request Form
+
+Calamity names
+無気力の厄災=Scourge of Lethargy
+熱波の厄災=Heatwave Disaster
+渦雷の厄災=Whirlpool Disaster
+情欲の厄災=Lust Disaster
+砕氷の厄災=Ice-breaking Disaster
+砂嵐の厄災=Sandstorm Disaster
+氷河の厄災=Glacier Disaster
+飢餓の厄災=Hunger Disaster
+
+Quests
+メインストーリークエスト=Main Story Quest
+現在開催中のイベントはありません=No available event(s).
+現在依頼はありません=<size\=80%>No available request(s)
+難易度選択=Difficulty
+r:"^第([0-9]+)階層$"=Layer $1
+スタミナ=<size\=80%>Stamina
+消費=<size\=70%>cost
+周回可能=Able to Skip
+未開放=Locked
+達成数=Attempt
+迎撃数=Attempt
+周回エリア=Lap Area
+新しいクエストが解放されました=New quest has been unlocked
+時間内クリアで今の宝箱が登場=Clear within the time limit to get treasure chest
+スキップ1回につき=Cost for 1 skip: 
+スキップ回数=Lap
+スタミナを消費して ステージをスキップします。=Consumes stamina and skips the stage.
+前回クリアした編成内容で スキップを行います=Skip using the previously cleared composition.
+特効=<size\=80%><cspace\=-0.1em>Bonus
+エリアの調査が進行し、新しいメインクエスト（周回）が解放されました。=As the area survey progresses, a new main quest (lap) has been unlocked.
+sr:"^大穴の探索が進み<br>「([\S\s]+)」<br>が周回可能になりました。$"=As the search for the Great Abyss progresses, <br>“$1”<br> is now available for repeat playthroughs.
+
+推奨戦力=Rec. PWR
+依頼の更新まで=Updating in
+厄災Lv=厄災Lv
+巡回=Patrol
+
+Battle
+討伐数=<size\=90%>Enemies
+
+-Quest Clear/Fail
+リザルト=Result
+装備　　　  個=Gears          Qty
+アイテム=Item
+再挑戦=<size\=90%>Try Again
+強化へ=<size\=80%>Strengthen
+編成へ=To Party
+ドロップ無し。=No Drop
+
+-Return to battle
+スタミナなどは返還されません。=such as stamina etc. will not be returned.
+キャンセルされた場合、バトル開始時に消費した=If cancelled, amount of consumed items
+バトルの中断データが残っています。<br>バトルを再開しますか？=Battle has been interrupted.<br>Would you like to resume?
+復帰確認=Return Confirmation
+
+-Withdraw
+撤退確認=Confirm Withdrawal
+クエストから撤退しますか？=Do you want to withdraw from the quest?
+※報酬を獲得することはできません=*You cannot earn rewards.
+撤退する=Withdraw
+
+Event
+イベントステージ=Event Stage
+チャレンジステージ=Challenge Stage
+交換所=<line-height\=60%>Exchange\nOffice
+イベント\nガチャ=Event\nGacha
+初回報酬=First reward
+イベント\nミッション=Event\nMission
+特効キャラ=<line-height\=60%>Special\n<size\=90%>Characters
+開催期間=Period
+開催期間:=Event Period:
+r:"^([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)まで$"=<size\=90%>Until $1/$2/$3 $4:$5
+r:"^([0-9]+)/([0-9]+)/([0-9]+) ～ ([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)まで$"=$1/$2/$3 〜 $4/$5/$6 $7:$8
+2026/06/13 ～ 2026/06/20 04:59まで
+特効合計=<line-height\=60%>Total Boost
+報酬受取期間:=Reward receiving period:
+
+Buffs and debuffs
+付与ステータス一覧=Grant Status List
+付与されている紋章はありません=No attached crest
+遠くの敵を狙いやすい状態=Easy to aim at distant enemies
+付与されている効果はありません=No applied effects
+
+-buffs
+r:"^攻撃力が(\d+(?:\.\d*)?)%、スキルチャージ効率が([0-9]+)%上昇した状態$"=Attack power increased by $1% and skill charge efficiency increased by $2%.
+r:"^スキルチャージ効率が(\d+(?:\.\d*)?)%上昇する状態$"=Skill charge efficiency increased by $1%
+r:"^会心率が(\d+(?:\.\d*)?)%、スキルチャージ効率が(\d+(?:\.\d*)?)%上昇した状態$"=Critical rate increased by $1% and skill charge efficiency increased by $2%
+r:"^会心率が(\d+(?:\.\d*)?)%上昇する状態$"=Conversion rate increased by $1%
+r:"^攻撃力が(\d+(?:\.\d*)?)%上昇する状態$"=Attack power increased by $1%
+r:"^連撃率が(\d+(?:\.\d*)?)%上昇する状態$"=Consecutive attack rate increased by $1%
+r:"^防御力が(\d+(?:\.\d*)?)%上昇する状態$"=Defense power increased by $1%
+r:"^被ダメージが(\d+(?:\.\d*)?)%減少する状態$"=Damage received reduced by $1%
+r:"^与ダメージが(\d+(?:\.\d*)?)%上昇する状態$"=Damage dealt increased by $1%
+r:"^全状態異常耐性が(\d+(?:\.\d*)?)%%上昇する状態$"=Status ailment resistance increased by $1%
+Lvに応じて攻撃力と防御力が上昇する状態\n（一定値以上のダメージを受けると減少）=Increase attack and defense based on Lv\n(Decrease when damage received exceeds a certain threshold)
+6秒ごとにHPを7176回復 / 氷鎧Lvが1上昇する状態=Restores 7,176 HP every 6 seconds / Increase Ice Armor Lv by 1
+r:"^最大HPが(\d+(?:\.\d*)?)%上昇する状態$"=Maximum HP increased by $1%
+r:"^回避率が(\d+(?:\.\d*)?)%上昇する状態$"=Evasion rate increased by $1%
+Lvに応じてパラメータが上昇する状態\n（時間経過で減少）=Parameters increase based on Lv (Decrease over time)
+r:"^スキルによる被ダメージが(\d+(?:\.\d*)?)減少する状態$"=Damage taken from skills reduced by $1
+
+-debuffs
+スキルがチャージがされず、スキルの使用やフォースチェイン参加が制限された状態=Skills are not charged\nRestricted use of skills and force chain
+時間経過でダメージを受ける状態=Condition that causes damage over time
+r:"^防御力が(\d+(?:\.\d*)?)%減少する状態$"=Defense power decreased by $1%
+1秒ごとに1Lvにつき最大HP1%%分のダメージを受ける状態\n（回復を受けるとLvが減少する）=<size\=70%>A status effect that causes damage equal to 1% of maximum HP per level every second\n(The level decreases when you receive healing)
+r:"^凍結耐性が(\d+(?:\.\d*)?)%%減少する状態$"=Freeze resistance reduced by $1%
+r:"^行動時に最大HP(\d+(?:\.\d*)?)%分のダメージを受ける状態$"=Receive damage equal to 3% of your maximum HP when taking action.
+1秒ごとに1Lvにつき最大HP3%%分のダメージを受ける状態\n（回復を受けるとLvが減少する）=<size\=90%>Receive damage equal to 3% of your max HP per 1Lv every second (Lv decreases when you receive recovery)
+行動間隔が延長され、連撃率とスキルチャージ効率が低下した状態\n一定回数行動すると解除=<size\=90%>Increase action intervals and reduce consecutive hit rate and skill charge efficiency\nRemoved after taking a certain number of actions
+一部の行動が阻害された状態=Certain actions are restricted
+
+Defense equipment and stuff
+-Typing
+罠型=TRP type
+支援型=SUP type
+障害物型=OBS type
+迎撃型=INTR type
+回復タイプ=REC type
+攻撃タイプ=ATK type
+防御タイプ=DEF type
+バフタイプ=BUF type
+
+-Name
+豊穣の女神像=Fertility Goddess Statue
+連装砲塔=Twin Turret
+地雷Ⅱ=Landmine II
+地雷Ⅰ=Landmine I
+魔導キャノンⅠ=Magic Cannon I
+魔導キャノンⅡ=Magic Cannon II
+エアタレットⅠ=Air Turret I
+エアタレットⅡ=Air Turret II
+エアタレットⅢ=Air turret III
+魔法障壁=Magic Barrier
+魔法障壁【軽】=Magic Barrier [light]
+聖浄の調べ=Melody of Purity
+砲撃支援=Artillery Support
+大砲=Cannon
+雷撃誘発機構=Lightning Trigger
+エアタレット=Air Turret
+エレクトロボール=Electro Ball
+魔道キャノンⅡ=Magic Cannon II
+魔道キャノンⅠ=Magic Cannon I
+状態異常魔法陣（炎上）=Status Abnormal Magic Circle (Flame)
+状態異常魔法陣（凍結）=Status Abnormal Magic Circle (Freeze)
+状態異常魔法陣（石化）=Status Abnormal Magic Circle (Petrification)
+
+-Description
+ランダムな敵に範囲攻撃を行う。=Perform an area attack on random enemies.
+味方を継続的に回復する。=Continuously heals allies.
+近くの敵に3HITの攻撃を行う。2機設置。=Performs a 3-hit attack on nearby enemies. 2 machines installed.
+近くの敵に3HITの攻撃を行う。=Performs a 3-hit attack on nearby enemies.
+近くの敵に1HITの攻撃を行う。厄災を優先して攻撃。=Performs a 1-hit attack on nearby enemies. Prioritize disasters.
+一時的に敵の進行を止めることができる標準的な障壁。=A standard barrier that can temporarily stop enemy progress.
+近くの敵に1HITの攻撃を行う。厄災を優先して攻撃。2機設置。=Performs a 1-hit attack on nearby enemies. Prioritize disasters. 2 machines installed.
+味方全体の全状態異常耐性UP。=Increases resistance to all status ailments for all allies.
+ランダムな敵に範囲攻撃を6回行う。=Perform area attacks on random enemies 6 times.
+近くの敵に範囲攻撃。攻撃範囲が広い。=Area attack on nearby enemies. Has wide attack range.
+範囲内の敵にダメージ。CT20秒/3回。2機設置。=Damages enemies within range. CT20 seconds/3 times. 2 machines installed.
+範囲内の敵にダメージ。CT20秒/3回。=Damages enemies within range. CT20 seconds/3 times.
+ランダムな敵3体に攻撃を行う。=Attacks 3 random enemies.
+
+-Stat
+r:"^攻撃力([0-9]+)$"=Attack $1
+r:"^防御力([0-9]+)$"=Defense $1
+r:"^攻撃間隔([0-9]+)秒$"=$1s interval
+r:"^回復間隔([0-9]+)秒$"=$1s interval
+r:"^回復力([0-9]+)$"=Resilience $1
+r:"^CT([0-9]+)秒$"=$1s CT
+全状態異常耐性UP+60%=Status abnormality RES UP +60%

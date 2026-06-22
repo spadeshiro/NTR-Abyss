@@ -1,0 +1,77 @@
+r:"^第([0-9０-９]+)階層$"=Floor $1
+r:"^メインストーリー 第([0-9０-９]+)階層$"=Main Story - Floor $1
+
+
+チーム探索力=Party Exploration Power
+探索力=E.Pow
+
+探索力が高いほど追加のドロップが発生する可能性が高くなります。=The higher your Exploration Power, the greater the chance of obtaining additional drops.
+リーダー設定=Leader Settings
+発生中!=Active!
+探索クエスト=<cspace\=-0.1em><line-height\=60%>Exploration Quest
+件発生!=<cspace\=-0.05em><size\=80%>quests!
+クエスト出現中!=Quest Active!
+探索隊Cがランク3のエピック エプロンドレスを発見！\n探索隊Bがありふれた骨材を発見！\n探索隊Aが銀のマテリアルを発見！=Exploration Team C discovered a Rank 3 Epic Apron Dress!\nExploration Team B discovered Common Bone Materials!\nExploration Team A discovered Silver Material!
+未発生=Inactive
+階層詳細=<line-height\=60%>Floor Details
+報酬MAXまで=<size\=90%><cspace\=-0.1em><line-height\=60%>Until MAX reward
+探索Lv=<cspace\=-0.1em><size\=80%>Exploration Lv
+全体マップ=<cspace\=-0.1em>World Map
+編成=Formation
+探索ログ=Exploration Log
+クエスト出現まで=<size\=80%><cspace\=-0.1em>Until Quest Appears
+を探索=Exploring
+初めてのログイン=First Login
+探索隊編成=Exploration Team Formation
+リーダー=Leader
+探索隊名=<size\=80%>Team Name
+メンバー登録数=Members
+ドロップボーナス=Drop Bonus
+メインストーリー=Main Story
+タイムスキップ=Time Skip
+タイムスキップは１回につき100個まで使用できます。=Up to 100 time skips can be used at a time.
+r:"^スキップチケット<color\=#4CF37Bff>【([0-9０-９]+)個】</color>を使用して<br>合計<color\=#4CF37Bff>【([0-9０-９]+)時間分】</color>の探索を行いますか？$"=Would you like to use a Skip Ticket <color\=#4CF37Bff>[$1]</color><br>to explore for a total of <color\=#4CF37Bff>[$2 hour(s)]</color>?
+【リーダー】を必ず設定してください=Please be sure to set [Leader]
+探索先が未設定です。=Destination has not been set.
+探索先の情報=Destination Detail
+のリーダー装備を選択します。=Select leader equipment.
+装備可能一覧=Equippable list
+選択中装備名：=Equip name:
+探索力：=Exploration ability:
+r:"^武器補正：([0-9０-９]+)$"=Weapon modifier: $1
+現在のチーム探索力=Current team exploration ability
+ボーナスクエスト発生！=<line-height\=60%><cspace\=-0.05em>Bonus quest occurred!
+イベント階層=Event
+<color\=#4cf37b>ボーナスイベント</color>が発生しました。=<color\=#4cf37b>Bonus event</color> has occurred.
+
+おまかせ\n編成=Auto\nSet up
+一括解除=Clear
+
+Exploration Lv Details
+ボーナス効果\n=Bonus Effects\n
+探索ポイント=Exploration Point
+探索Lvはメインストーリーを進めることで増加します。=<line-height\=60%><size\=60%>Exploration Lv increases by progressing through the main story.
+報酬ランク情報=Reward Rank Information
+r:"^ランク([0-9]+)$"=Rank $1
+獲得できる装備の【最高ランク】=<line-height\=60%><cspace\=-0.05em><size\=70%>[Highest Rank] Equips you can obtain
+r:"^([0-9]+)件$"=$1 items
+探索クエストの同時受注数=<line-height\=60%><cspace\=-0.05em><size\=70%>Max number of Exploration Quests
+探索クエストの推奨戦力=<line-height\=60%><cspace\=-0.05em><size\=70%>Recommended PWR for quests
+現在の探索Lv=Exploration Lv
+最大まで=<cspace\=-0.05em><size\=90%>To maximum rewards
+待機中の部隊=Party on standby
+探索中の部隊=Party exploring
+探索の状況\n=Search status\n
+
+Exploration quest event
+探索クエストイベント詳細=Exploration Quest Event Details
+r:"^([0-9]+)/([0-9]+)/([0-9]+)〜([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+):([0-9]+)まで$"=$1/$2/$3 ~ $4/$5/$6 $7:$8:$9
+発生速度UP=<cspace\=-0.05em><size\=80%>Gen. Rate UP
+探索クエストの挑戦数：=<cspace\=-0.05em><size\=85%>Number of extra tries:
+イベントミッション達成数=<line-height\=60%><cspace\=-0.05em>Number of completed\nevent missions
+期間限定で探索可能な階層：=Limited-time Floor:
+階層へ移動=<cspace\=-0.05em><size\=80%>To hierarchy
+イベントクエスト=Event Quest
+ボーナスクエスト発見まであと=<line-height\=60%><size\=90%>Until the bonus\nquest is discovered:
+一二三四五六七八九十一二三四五六七=1234567891234567
+r:"^探索Lv([0-9]+)～$"=Exploration Lv$1～

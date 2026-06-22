@@ -1,0 +1,12 @@
+メインストーリー回想=Main Story Flashback
+序章=<cspace\=-0.1em>Prologue
+r:"^第([0-9]+)章$"=<cspace\=-0.1em>Chpt. $1
+r:"^([0-9]+)話$"=Ep. $1
+
+司令官着任=<line-height\=60%>Commander Assumes Command
+砂嵐の階層=Sandstorm Stratum
+氷河の階層=Glacier Stratum
+廃墟の階層=Ruins Stratum
+闇の階層=Darkness Stratum
+火山の階層=Volcano Stratum
+光の階層=Light Stratum

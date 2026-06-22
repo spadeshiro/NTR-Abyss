@@ -1,0 +1,35 @@
+sr:"^([\S\s]+)の日常その①$"=$1's Daily Life Part 1
+sr:"^([\S\s]+)の日常その②$"=$1's Daily Life Part 2
+sr:"^([\S\s]+)の日常その③$"=$1's Daily Life Part 3
+
+BOND STORY
+Sylvia
+孤独な少女に足りないもの=What the Lonely Girl Lacks
+溶け出す氷=Thawing Ice
+氷の世界の少女=The Girl in the World of Ice
+提案カード名=Suggested Card Name
+こんな遊戯は破廉恥ですわ！=Such Games Are Indecent!
+わたくしを見てほしいですわ=I Want You to Notice Me
+ちょっと気持ち悪いですわ……=I'm Feeling a Bit Unwell...
+
+Hinagi
+ホウライから来た陰陽師=Onmyoji from Hourai
+縁結びのおまじない=Matchmaking Charm
+英雄の血が持つ気の流れ=The Flow of Qi Within Heroic Blood
+摩臍過気の法=The Art of Manseikaki
+龍脈を持つ者=One Who Bears Dragon Veins
+邪気の残響を追え=Follow the Echoes of Malice
+
+Veera
+久しぶり、お姉ちゃん=It's Been a While, Oneechan
+ありがとう、お姉ちゃん=Thanks, Oneechan
+すごいね、お姉ちゃん=You're Amazing, Oneechan
+秘めたる才能=Hidden Talent
+ヴィーラお姉ちゃんの筆下ろし=Veera Oneechan's First Brushstroke
+
+Magnolia
+花咲く騒がしさ=The Bustle of Blooming Flowers
+特別なお友達=A Special Friend
+森のお姫様=Princess of the Forest
+おにいさんと仲良くなりたい=I Want to Get Closer to Big Brother
+お口で許してください？=Will You Forgive Me with My Mouth?
