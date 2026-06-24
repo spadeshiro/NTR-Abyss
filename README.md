@@ -15,7 +15,7 @@ English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear
 - Story translation
 
 ## Installation
-1. (For old users) Delete BepinEx folder inside your `dotabyss_x_cl` folder
+1. **(For old users)** Delete BepinEx folder inside your `dotabyss_x_cl` folder
 2. Download the [latest release build](https://github.com/spadeshiro/NTR-Abyss/releases)
 3. Extract to your Dot Abyss installation folder, replace files if asked
 
