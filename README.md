@@ -32,6 +32,7 @@ The patch itself doesn't alter or break any of the in-game files, there's no ext
 ## Current Limitation
 - In case you're asking, no, we don't plan on making android version as we lack the expertise and manpower.
 - BepinEx + XUnity.AutoTranslator is known to be taxing in term of performance. There's nothing we can do about it.
+- Texture translation is currently not feasible due to how hard it is to dump them properly.
 
 ## Troubleshooting
 - If you're experiencing C++ Runtime Error, consider trying to [enable "Unicode UTF-8 for Worldwide Language Support"](https://www.elevenforum.com/t/enable-or-disable-unicode-utf-8-for-worldwide-language-support-in-windows-11.38649/), this has solved many users.
