@@ -39,4 +39,5 @@ The patch itself doesn't alter or break any of the in-game files, there's no ext
 - If the console log seems to be stuck, make sure you didn't accidentally click on it as doing so will halt the process including the game itself.
 - Windows Defender may consider BepinEx a threat, you can fix this by temporarily disabling Defender or whitelisting Dot Abyss folder.
 
-This translation is powered by [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) on top of [BepinEx](https://github.com/BepInEx/BepInEx). Without these two, this translation would never happen.
+This translation is powered by [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) on top of [BepinEx](https://github.com/BepInEx/BepInEx). Without these two, this translation would never happen.  
+If you have any issues, or want to contribute, join us @ [Fanza English Community discord](https://discord.gg/zEYhVM6), grab KuMaSan role, and head to #dot-abyss_translation channel.
