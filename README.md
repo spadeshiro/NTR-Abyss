@@ -2,7 +2,7 @@
 <img width="1400" height="622" alt="NTRAbyss-EoS" src="https://github.com/user-attachments/assets/5ed2c867-9ef0-470d-857f-5f5e4e1bfb5f" />
 English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear, powered by XUnity.AutoTranslator on top of BepinEx.  
 
-Current Status: Discontinued, new plugin in development
+Current Status: Discontinued, new plugin in beta-testing, join [Fanza English Community Discord](https://discord.gg/zEYhVM6) for detail
 
 ## Contributors
 - SpadesHiro
