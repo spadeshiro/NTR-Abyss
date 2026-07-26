@@ -44,6 +44,8 @@ The patch itself doesn't alter or break any of the in-game files, there's no ext
 - Windows Defender may consider BepinEx a threat, you can fix this by temporarily disabling Defender or whitelisting Dot Abyss folder.
 
 ## Screenshots
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/473c84ab-15ed-4fa1-bc5c-a41b511670de" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b2ef5b06-47c8-4388-b34f-d52ac2a32ff3" />
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f7252ac3-5627-4b46-ab84-fb75f9433571" />
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3aee8384-b78b-4038-9ecc-aea99631c8e5" />
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8b3c9005-4349-49f9-ae22-ddccaedbdeaf" />
