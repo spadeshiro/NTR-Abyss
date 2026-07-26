@@ -43,10 +43,19 @@ The patch itself doesn't alter or break any of the in-game files, there's no ext
 - If the console log seems to be stuck, make sure you didn't accidentally click on it as doing so will halt the process including the game itself.
 - Windows Defender may consider BepinEx a threat, you can fix this by temporarily disabling Defender or whitelisting Dot Abyss folder.
 
+## Screenshots
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f7252ac3-5627-4b46-ab84-fb75f9433571" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3aee8384-b78b-4038-9ecc-aea99631c8e5" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8b3c9005-4349-49f9-ae22-ddccaedbdeaf" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/793a238d-2441-4418-b907-fa4189dd0067" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/fc5aaaad-562b-47e6-a17f-23c6ec94bd6a" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d59b66ab-d73e-4ad7-93fa-77182ac47faf" />
+
 ## Resources
 Source code: [https://github.com/Brombeis/AbyssMod](https://github.com/Brombeis/AbyssMod)  
 Translation repo: [https://github.com/brombeis/dotabyss-translation](https://github.com/brombeis/dotabyss-translation)  
 
+---
 This translation is powered by [AbyssMod](https://github.com/anosu/AbyssMod/) on top of [BepinEx](https://github.com/BepInEx/BepInEx).  
 If you have any issues, or want to contribute, join us @ [Fanza English Community discord](https://discord.gg/zEYhVM6), grab KuMaSan role, and head to #dot-abyss_translation channel.  
 Also, check out [Twinkle Star Knights English Fanpatch project](https://fanpatch.shinseidb.com)!
