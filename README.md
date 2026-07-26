@@ -40,7 +40,6 @@ The patch itself doesn't alter or break any of the in-game files, there's no ext
 
 ## Troubleshooting
 - If you're experiencing C++ Runtime Error, consider trying to [enable "Unicode UTF-8 for Worldwide Language Support"](https://www.elevenforum.com/t/enable-or-disable-unicode-utf-8-for-worldwide-language-support-in-windows-11.38649/), this has solved many users.
-- If the console log seems to be stuck, make sure you didn't accidentally click on it as doing so will halt the process including the game itself.
 - Windows Defender may consider BepinEx a threat, you can fix this by temporarily disabling Defender or whitelisting Dot Abyss folder.
 
 ## Screenshots
