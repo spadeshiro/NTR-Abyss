@@ -1,9 +1,8 @@
 # NTR-Abyss 2.0 English Fanpatch
 <img width="1472" height="622" alt="NTRAbyss2" src="https://github.com/user-attachments/assets/6cd7c152-1aac-4e37-97c9-32b0e1fe9577" />
-English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear, powered by XUnity.AutoTranslator on top of BepinEx.  
+English Fanpatch for a certain PC version of a pixel game made by Mr. Black Bear, powered by AbyssMod on top of BepinEx.  
 
-Current Status: Open testing
-
+Current Status: Released, check GitHub release page, Facebook, or Discord.
 ## Contributors
 - SpadesHiro
 - Abaddon
