@@ -43,6 +43,10 @@ The patch itself doesn't alter or break any of the in-game files, there's no ext
 - If the console log seems to be stuck, make sure you didn't accidentally click on it as doing so will halt the process including the game itself.
 - Windows Defender may consider BepinEx a threat, you can fix this by temporarily disabling Defender or whitelisting Dot Abyss folder.
 
+## Resources
+Source code: [https://github.com/Brombeis/AbyssMod](https://github.com/Brombeis/AbyssMod)  
+Translation repo: [https://github.com/brombeis/dotabyss-translation](https://github.com/brombeis/dotabyss-translation)  
+
 This translation is powered by [AbyssMod](https://github.com/anosu/AbyssMod/) on top of [BepinEx](https://github.com/BepInEx/BepInEx).  
 If you have any issues, or want to contribute, join us @ [Fanza English Community discord](https://discord.gg/zEYhVM6), grab KuMaSan role, and head to #dot-abyss_translation channel.  
 Also, check out [Twinkle Star Knights English Fanpatch project](https://fanpatch.shinseidb.com)!
