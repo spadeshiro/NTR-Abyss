@@ -38,8 +38,8 @@ The patch itself doesn't alter or break any of the in-game files, there's no ext
 - Texture translation is currently not feasible.
 
 ## Troubleshooting
-- If you're experiencing C++ Runtime Error, consider trying to [enable "Unicode UTF-8 for Worldwide Language Support"](https://www.elevenforum.com/t/enable-or-disable-unicode-utf-8-for-worldwide-language-support-in-windows-11.38649/), this has solved many users.
-- Windows Defender may consider BepinEx a threat, you can fix this by temporarily disabling Defender or whitelisting Dot Abyss folder.
+- If you're experiencing C++ Runtime Error, consider changing your system locale to Japanese, or try to [enable "Unicode UTF-8 for Worldwide Language Support"](https://www.elevenforum.com/t/enable-or-disable-unicode-utf-8-for-worldwide-language-support-in-windows-11.38649/), the latter has solved many users.
+- Crashes after installing the patch? There are some solutions you can try; disable User Access Control is the first. Other option is to disable your antivirus (Windows Defender included) as it can stop BepinEx from downloading assemblies. Last resort, disable Firewall.
 
 ## Screenshots
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/473c84ab-15ed-4fa1-bc5c-a41b511670de" />
